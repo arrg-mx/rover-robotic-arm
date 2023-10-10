@@ -45,6 +45,7 @@
 1. *The new NASA-JPL Open-Source Mars Rover is here* [ROS Discourse news](https://discourse.ros.org/t/the-new-nasa-jpl-open-source-mars-rover-is-here/33650/1). Published Sep 20, 2023
   - **JPL Open Source Rover Project** [Github repository](https://github.com/nasa-jpl/open-source-rover). El proyecto contiene la base móvil solamente.
 1. *(Proyecto)* **ros-rover** [Github repository](https://github.com/danielsnider/ros-rover). Artículo del proyecto y otros materiales, **sin código fuente**
+1. **A Gazebo-ROS simulation of Curiosity Mars Rover v1.0** [Github repository](https://github.com/rivascf/curiosity-mars-rover/)
 
 **Comunidad**
 
