@@ -50,6 +50,7 @@
 **Comunidad**
 
 1. **How I Built a Mars Perseverance Rover Replica - Arduino based Project** [YT video](https://www.youtube.com/watch?v=NOZZMsMAGh0)
+2. **I Built a Mini Mars Rover** [YT video](https://www.youtube.com/watch?v=OB4AxmelKik)
 
 ---
 
